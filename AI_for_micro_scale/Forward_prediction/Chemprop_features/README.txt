@@ -1,0 +1,1 @@
+The featurization of chemprop is already detailed explained in representation part. Please refer to that section
